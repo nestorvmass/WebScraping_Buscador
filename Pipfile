@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 bs4 = "*"
 requests = "*"
+selenium = "*"
+pip = "*"
+openpyxl = "*"
 
 [dev-packages]
 
